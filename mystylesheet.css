@@ -17,20 +17,9 @@ div.img {
     border-color: #ffffff;
 }
 
-div.img:hover {
-    border: 1px solid #777;
-}
-
 div.img img {
     width: 100%;
     height: auto;
-}
-
-div.desc {
-    border: 7px solid #ccc;
-    width: 250px;
-    background-color: white;
-    font-size: 15px;
 }
 
 h1{
