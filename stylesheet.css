@@ -33,6 +33,7 @@ p{
 	
 }
 .img{
-	margin: auto;
+	position:absolute;
+	left:500px;
 }
 
