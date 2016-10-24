@@ -9,23 +9,8 @@ h3{
 body{
 	background-image: url(http://images.all-free-download.com/images/graphiclarge/nostalgic_blue_background_06_hd_pictures_169782.jpg);
 }
-div.img {
-    margin: 20px;
-    border: 7px solid #ccc;
-    float: left;
-    width: 250px;
-    border-color: #ffffff;
-}
 
-div.img img {
-    width: 100%;
-    height: auto;
-}
 
-h1{
-      color: white;
-      font-size: 70px;
-    }
 
 h4{
       color: white;
@@ -34,3 +19,17 @@ h4{
       text-align: center;
       text-decoration: none;
       font-size: 30px;
+	
+}
+p{
+	text-align: center;
+	color: white;
+	text-decoration: none;
+	font-size: 20px;
+	
+	
+}
+
+#hm{
+text-align:center;
+}
