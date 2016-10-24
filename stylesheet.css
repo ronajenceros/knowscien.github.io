@@ -32,7 +32,9 @@ p{
 	
 	
 }
-.img{
-	align:middle;
+
+img{
+	position: absolute;
+	left:450px;
 }
 
